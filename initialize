@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.ex1 {
+    background-color: white;
+    width: 49%;
+    height: 300px;
+    overflow: scroll;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    float: left;
+}
+
+div.ex2 {
+    background-color: white;
+    width: 49%;
+    height: 300px;
+    overflow: scroll;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    float: right;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="ex1">
+<a href="/documents/CommonNCForestTrees-NCFS.pdf" target="_blank">Common NC Forest Trees - NC Forest Service</a><br>
+<a href="https://andrewswxcenter.com/documents/SRAD_NWS_Suggested_Warning_Methodology.pdf" target="_blank">Suggested Warning Methodology used by the NWS</a><br>
+<a href="https://www.noaa.gov/stories/noaa-satellites-helped-save-307-lives-in-2016" target="_blank">NOAA satellites helped save 307 lives in 2016</a><br>
+</div>
+
+
+
+
+
+
+<div class="ex2">
+<a href="https://www.noaa.gov/stories/noaa-satellites-helped-save-307-lives-in-2016" target="_blank">NOAA satellites helped save 307 lives in 2016</a><br>
+</div>
+
+</body>
+</html>
