@@ -34,13 +34,23 @@ div.holderright {
     float: right;
 }
 
+p.pdftitle {
+    text-align: center;
+    font-size: 24px;
+}
+
+p.webtitle {
+    text-align: center;
+    font-size: 24px;
+}
+
 
 </style>
 </head>
 <body>
 
 <div class="holderleft">
-<p>PDFs</p>
+<p class="pdftitle">PDFs</p>
 <div class="ex1">
 <a href="/documents/CommonNCForestTrees-NCFS.pdf" target="_blank">Common NC Forest Trees - NC Forest Service</a><br>
 <a href="https://andrewswxcenter.com/documents/SRAD_NWS_Suggested_Warning_Methodology.pdf" target="_blank">Suggested Warning Methodology used by the NWS</a><br>
@@ -50,9 +60,83 @@ div.holderright {
 
 
 <div class="holderright">
-<p>Web Articles</p>
+<p class="webtitle">Web Articles</p>
 <div class="ex2">
 <a href="https://www.noaa.gov/stories/noaa-satellites-helped-save-307-lives-in-2016" target="_blank">NOAA satellites helped save 307 lives in 2016</a><br>
+<a href="http://nautil.us/blog/i-built-a-stable-planetary-system-with-416-planets-in-the-habitable-zone?utm_content=bufferd139d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">I Built a Stable Planetary System with 416 Planets in the Habitable Zone</a><br>
+<a href="https://www.smh.com.au/opinion/dont-shoot-the-climate-change-messenger-20180123-h0mpzo.html" target="_blank">Don't shoot the climate change messenger</a><br>
+<a href="https://www.atlantamagazine.com/news-culture-articles/many-atlanta-braves-rain-delays-science-explain/" target="_blank">Why so many Atlanta Braves rain delays? Science could explain.</a><br>
+<a href="https://www.nytimes.com/interactive/2017/07/28/climate/more-frequent-extreme-summer-heat.html" target="_blank">It's Not Your Imagination. Summers Are Getting Hotter.</a><br>
+<a href="https://www.noaa.gov/stories/experimental-model-predicted-tornados-path-hours-not-minutes-before-it-formed" target="_blank">Experimental model predicted tornado's path hours, not minutes, before it formed</a><br>
+<a href="https://blogs.agu.org/wildwildscience/2017/07/07/nasa-satellite-sees-air-pollution-fireworks-4th/#.WWOrkcC5t3g.twitter" target="_blank">NASA Satellite Sees Air Pollution from Fireworks on the 4th</a><br>
+<a href="http://www.wbrz.com/news/why-are-weathercasters-so-hung-up-on-dew-points-" target="_blank">Why are weathercasters so hung up on dew points?</a><br>
+<a href="http://www.weathernationtv.com/news/climbing-temperatures-keeping-people-awake-night/" target="_blank">Climbing Temperatures Are Keeping People Awake at Night</a><br>
+<a href="http://www.weathernationtv.com/news/scientists-look-skies-improve-tsunami-detection/" target="_blank">Scientists Look to Skies to Improve Tsunami Detection</a><br>
+<a href="https://www.metoffice.gov.uk/learning/library/archive-hidden-treasures/d-day-operation-overlord" target="_blank">Weather information relating to D-Day and Operation Overlord</a><br>
+<a href="news.umanitoba.ca/large-canadian-arctic-climate-change-study-cancelled-due-to-climate-change/" target="_blank">First phase of Arctic climate change study cancelled due to climate change</a><br>
+<a href="https://www.wunderground.com/cat6/world-record-low-humidity-116f-036-humidity-iran" target="_blank">A World Record Low Humidity? 116°F With a 0.36% Humidity in Iran</a><br>
+<a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2013/08/01/ronald-reagans-near-brush-with-weather-induced-death-the-august-1-1983-microburst/?utm_term=.8ce4c838890b" target="_blank">Ronald Reagan’s near brush with weather-induced death: the August 1, 1983 microburst</a><br>
+<a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/03/30/comprehensive-bi-partisan-bill-to-improve-weather-forecasting-passes-senate/?utm_term=.55eac97c55b5" target="_blank">Senate passes comprehensive bipartisan bill to improve weather forecasting</a><br>
+<a href="https://news.wisc.edu/a-scientist-and-a-supercomputer-re-create-a-tornado/" target="_blank">A scientist and a supercomputer re-create a tornado</a><br>
+<a href="http://www.climatecentral.org/news/antarctica-co2-400-ppm-million-years-20451?utm_content=buffer76b82&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Antarctic CO2 Hit 400 PPM For First Time in 4 Million Years</a><br>
+<a href="https://theconversation.com/what-will-the-world-actually-look-like-at-1-5-c-of-warming-68763?utm_content=bufferec7a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">What will the world actually look like at 1.5°C of warming?</a><br>
+<a href="https://www.bbc.com/news/world-australia-38059631" target="_blank">Melbourne 'thunderstorm asthma' kills two</a><br>
+<a href="http://geoawesomeness.com/top-19-online-geovisualization-tools-apis-libraries-beautiful-maps/" target="_blank">Top 19 geovisualization tools, APIs and libraries that will let you create beautiful web maps</a><br>
+<a href="http://www.takepart.com/article/2015/06/05/what-bottled-water-costs-environment-and-your-health/" target="_blank">What Bottled Water Costs the Environment—and Your Health</a><br>
+<a href="https://www.portablepress.com/blog/2014/03/auja-why-are-weathermen-called-meteorologists/" target="_blank">Why are weathermen called meteorologists?</a><br>
+<a href="http://mentalfloss.com/article/60150/10-facts-about-internets-undersea-cables" target="_blank">10 Facts About the Internet's Undersea Cables</a><br>
+<a href="https://www.accuweather.com/en/weather-blogs/weathermatrix/why-are-the-models-so-inaccurate/18097" target="_blank">The Secrets of Weather Forecast Models, Exposed</a><br>
+<a href="http://www.wfae.org/post/its-so-hot-we-set-record-energy-use#stream/0" target="_blank">It's So Hot, We Set A Record For Energy Use </a><br>
+<a href="https://www.accuweather.com/en/weather-news/kansas-turnpike-tornado-shelters-severe-weather/45909908" target="_blank">Kansas Turnpike Tornado Shelters: A Lesser-Known Haven for Motorists During Severe Weather</a><br>
+<a href="https://thewxsocial.com/2017/02/28/overuse-of-severe-thunderstorm-warnings/#more-1104" target="_blank">Overuse of Severe Thunderstorm Warnings</a><br>
+<a href="http://www.ustornadoes.com/2017/04/21/tornado-warnings-by-year-since-2008-maps/" target="_blank">A look at all the tornado warnings since 2008 (maps)</a><br>
+<a href="https://blog.nssl.noaa.gov/nsslnews/2017/07/researchers-evaluating-lightning-data-in-hazardous-weather-testbed/" target="_blank">Researchers evaluating lightning data in Hazardous Weather Testbed</a><br>
+<a href="www.kgou.org/post/those-storm-anxiety-just-threat-bad-weather-can-be-agonizing" target="_blank">For Those With Storm Anxiety, Just The Threat Of Bad Weather Can Be Agonizing </a><br>
+<a href="http://geoawesomeness.com/the-history-of-space-exploration-on-a-single-map/" target="_blank">The history of space exploration on a single space map</a><br>
+<a href="http://www.environmentalbiophysics.org/can-a-leaf-wetness-sensor-distinguish-fog-from-dew/" target="_blank">Can a Leaf Wetness Sensor Distinguish Fog From Dew?</a><br>
+<a href="http://geoawesomeness.com/scientists-discovered-new-continent-called-zealandia/" target="_blank">Scientists discovered a new continent and called it Zealandia</a><br>
+<a href="https://www.pressofatlanticcity.com/features/black-americans-broke-weather-barriers-during-wwii-work-still-to/article_8d1a1298-1b1a-542b-8faa-5ea3d8edc7e2.html" target="_blank">Black Americans broke weather barriers during WWII, work still to go</a><br>
+<a href="https://geozoneblog.wordpress.com/2016/10/13/hurricane-matthew-data-resources/" target="_blank">Hurricane Matthew Data Resources: Quick Snapshot (not inclusive)</a><br>
+<a href="https://www.washingtonpost.com/news/energy-environment/wp/2018/04/11/this-environmental-group-is-launching-its-own-satellite-to-learn-more-about-greenhouse-gas-leaks/?noredirect=on&utm_term=.ca38ae00ec54" target="_blank">This environmental group is launching its own satellite to learn more about greenhouse gas leaks</a><br>
+<a href="http://www.ustornadoes.com/2017/06/07/look-tornadoes-rating-maps/" target="_blank">A look at tornadoes by rating (maps)</a><br>
+<a href="https://www.onlyinyourstate.com/virginia/mole-hill-volcano-dayton-virginia/" target="_blank">Few People Realize There’s An Active Volcano Right Here In Virginia</a><br>
+<a href="https://www.sciencealert.com/watch-this-awesome-experiment-shows-how-liquefaction-occurs-during-an-earthquake" target="_blank">This Unsettling Experiment Shows How Liquefaction Occurs During an Earthquake</a><br>
+<a href="https://oceanservice.noaa.gov/facts/glacial-adjustment.html" target="_blank">What is glacial isostatic adjustment?</a><br>
+<a href="https://energync.org/truth-wind-power-myth-vs-fact/" target="_blank">The Truth on Wind Power: Myth vs. Fact</a><br>
+<a href="https://www.bloomberg.com/news/articles/2017-02-13/wind-on-the-plains-supplied-more-than-half-region-s-power-needs" target="_blank">For the First Time, Wind on the Plains Supplied More Than Half Region’s Power</a><br>
+<a href="http://blogs.esa.int/iriss/2015/08/31/hunting-for-thunderstorms/" target="_blank">Hunting for thunderstorms</a><br>
+<a href="https://m.phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html" target="_blank">The most effective individual steps to tackle climate change aren't being discussed</a><br>
+<a href="https://www.pbs.org/wgbh/nova/article/depoliticizing-climate-change/" target="_blank">Taking Politics Out of Climate Change</a><br>
+<a href="https://www.pbs.org/wgbh/nova/article/want-to-help-fight-climate-change-try-eating-some-beans/" target="_blank">Want to Help Fight Climate Change? Try Eating Some Beans</a><br>
+<a href="https://www.zmescience.com/ecology/climate/the-world-without-ice/" target="_blank">How would the world look like without ice?</a><br>
+<a href="https://www.noaa.gov/stories/as-alaskas-north-slope-warms-greenhouse-gases-have-nowhere-to-go-but-up" target="_blank">As Alaska's North Slope warms, greenhouse gases have nowhere to go but up</a><br>
+<a href="https://www.nytimes.com/interactive/2017/06/29/climate/southern-states-worse-climate-effects.html" target="_blank">As Climate Changes, Southern States Will Suffer More Than Others</a><br>
+<a href="http://www.climatecentral.org/news/china-india-climate-leaders-west-falters-21377?utm_content=bufferb07a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">China, India Become Climate Leaders as West Falters</a><br>
+<a href="http://www.climatecentral.org/news/larsen-c-crack-new-branch-21409" target="_blank">The Larsen C Ice Shelf Crack Just Sprouted a New Branch</a><br>
+<a href="https://www.bloomberg.com/graphics/2015-whats-warming-the-world/" target="_blank">What's Really Warming the World?</a><br>
+<a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/08/16/july-was-absolutely-earths-hottest-month-ever-recorded/?utm_term=.e18692bc0193" target="_blank">July was ‘absolutely’ Earth’s hottest month ever recorded</a><br>
+<a href="https://www.businessinsider.com/methane-bubbles-siberian-permafrost-climate-change-2016-7?utm_content=bufferc6e71&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti" target="_blank">The ground in Siberia is turning into a trampoline, and we should all be worried</a><br>
+<a href="https://www.ornl.gov/news/new-exascale-earth-modeling-system-energy" target="_blank">New exascale earth modeling system for energy</a><br>
+<a href="https://www.climate.gov/news-features/features/based-past-what-are-chances-it-will-rain-fourth-july-interactive" target="_blank">Based on the past, what are the chances it will rain on Fourth of July?</a><br>
+<a href="http://www.ustornadoes.com/2017/02/28/big-tornado-patterns-by-month-of-the-year/" target="_blank">Weather patterns that favor lots of tornadoes during each month of the year</a><br>
+<a href="https://climate.nasa.gov/news/2540/tree-rings-provide-snapshots-of-earths-past-climate/" target="_blank">Tree rings provide snapshots of Earth's past climate </a><br>
+<a href="www.ustornadoes.com/2017/03/28/interpreting-tornadic-radar-signatures-advanced-editon/" target="_blank">Understanding advanced tornadic radar signatures</a><br>
+<a href="https://futurism.com/what-would-the-night-sky-look-like-if-we-could-see-in-all-the-wavelengths-at-once-2/" target="_blank">What Would the Night Sky Look Like If We Could See in All the Wavelengths at Once?</a><br>
+<a href="https://blog.weatherops.com/a-brief-history-of-weather-radar?utm_campaign=Wx%20Radar%20History%20-DM&utm_source=Author" target="_blank">A Brief History of Weather Radar</a><br>
+<a href="http://thevane.gawker.com/this-one-little-programming-tweak-will-save-thousands-o-1592764166" target="_blank">This One Little Programming Tweak Will Save Thousands of Lives</a><br>
+<a href="https://www.edf.org/climate/methanemaps" target="_blank">Local leaks impact global climate</a><br>
+<a href="http://www.climatecentral.org/news/scientists-larsen-c-iceberg-size-21595" target="_blank">Scientists Know How Big the Larsen C Iceberg Will Be</a><br>
+<a href="http://blog.weatherflow.com/cold-water-upwelling-along-northern-obx/" target="_blank">Cold Water Upwelling Along Northern OBX</a><br>
+<a href="https://divisbyzero.com/2009/11/26/the-geometry-of-meandering-rivers/" target="_blank">The geometry of meandering rivers</a><br>
+<a href="https://www.nytimes.com/interactive/2016/12/09/science/mapping-three-decades-of-global-water-change.html?_r=0" target="_blank">Mapping Three Decades of Global Water Change</a><br>
+<a href="https://www.panasonic.aero/2016/01/06/panasonic-weather-solutions-introduces-panasonic-global-4d-weather-the-worlds-most-advanced-global-weather-forecasting-platform/" target="_blank">Panasonic Weather Solutions Introduces Panasonic Global 4D Weather –The World’s Most Advanced Global Weather Forecasting Platform</a><br>
+<a href="https://www.ssec.wisc.edu/news/articles/10109" target="_blank">New all-hazards ProbSevere model targets tornadoes, hail, wind</a><br>
+<a href="https://www.noaa.gov/media-release/noaa-to-develop-new-global-weather-model" target="_blank">NOAA to develop new global weather model</a><br>
+<a href="https://blog.weatherops.com/there-are-three-types-of-supercells-can-you-name-them" target="_blank">There Are Three Types of Supercells. Can You Name Them?</a><br>
+<a href="http://www.nwclimate.org/guides/meteorological-instrumentation/" target="_blank">Weather Instruments and Equipment Explained</a><br>
+<a href="http://theprovincialscientist.com/?p=802" target="_blank">What exactly is temperature? Ever wondered?</a><br>
+<a href="" target="_blank"></a><br>
+<br>
 </div>
 </div>
 
